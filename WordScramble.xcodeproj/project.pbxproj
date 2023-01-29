@@ -19,6 +19,7 @@
 		6C35AE1529872DAD00362563 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		6C35AE1729872DAE00362563 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6C35AE1A29872DAE00362563 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6C35AE2129872F0600362563 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -35,6 +36,7 @@
 		6C35AE0729872DAC00362563 = {
 			isa = PBXGroup;
 			children = (
+				6C35AE2129872F0600362563 /* README.md */,
 				6C35AE1229872DAD00362563 /* WordScramble */,
 				6C35AE1129872DAD00362563 /* Products */,
 			);
